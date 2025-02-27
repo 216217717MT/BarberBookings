@@ -1,7 +1,6 @@
-System Specification - Online Booking System for Barbershop
 
-Introduction
 Project Title: Online Booking System for Barbershop  
+
 Domain: Barbershop Management System  
 This system is part of the Barbershop Management domain, which focuses on developing effective and user-friendly platforms for barbershops to handle staff scheduling, customer appointments, and payment transactions.
 
