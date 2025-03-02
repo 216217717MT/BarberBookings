@@ -1,9 +1,9 @@
 INTRODUCTION!!
 
-PROJECT TITLE: 
+PROJECT TITLE:  
 Online Booking System for Barbershop  
 
-DOMAIN: 
+DOMAIN:  
 Barbershop Management System  
 
 PROBLEM STATEMENT:  
