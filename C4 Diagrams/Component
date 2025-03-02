@@ -1,5 +1,4 @@
-```mermaid
-graphTD;
+graph TD;
     %% External Users
     Client["Client - Books Appointments"] -->|Interacts with| UI
     Barber["Barber - Manages Schedules"] -->|Interacts with| UI
@@ -43,5 +42,3 @@ graphTD;
     style Client fill:#4d79ff,stroke:#0033cc,stroke-width:2px
     style Barber fill:#66cc66,stroke:#006600,stroke-width:2px
     style Admin fill:#999999,stroke:#4d4d4d,stroke-width:2px
-...
-
