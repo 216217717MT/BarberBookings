@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     %% Main System Components
     Frontend["Frontend (Web/Mobile)"] -->|Sends Requests| Backend["Backend (API Server)"]
