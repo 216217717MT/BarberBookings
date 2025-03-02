@@ -1,11 +1,5 @@
-# BarberBookings
+# ONLINE BOOKING SYSTEM FOR BARBERSHO
 
-BarberBookings - Online Booking System for Barbershop
-
-Project Title: Online Booking System for Barbershop  
-Description: 
-BarberBookings is a barbershop-specific internet booking platform.  Customers can use it to browse available time slots, schedule appointments, and get reminders.  Administrators can keep an eye on the entire system, while barbers can control their timetables.  For seamless transactions, the platform interfaces with payment gateways.
-
-Documentation
-[System Specification](SPECIFICATION.md)
-[Architecture Diagrams](ARCHITECTURE.md)
+ONLINE BOOKING SYSTEM FOR BARBERSHOP 
+This ia a barbershops online bookings system which will allows users to book a barbershop appointment through the internet" using their own devices". It is going to bring customers and business proprietors convenience and efficiency. Clients will browse available slots, select services and receive instant confirmation. providing the following advantages:
+Clients now do not have to get in touch during working hours to book an appointment as it can be done at any time. The will be no disappointments as technology minimizes late cancellations and no shows by reminding clients automatically. The system provide client database management, of which organize and store client information such as contacts, address, services rendered, and other information for their future interactions.
