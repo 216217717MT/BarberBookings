@@ -1,4 +1,3 @@
- ```mermaid
 graph TD;
     %% Users
     Client["Client - Books Appointments"] -->|Uses| OnlineBookingSystem
