@@ -1,0 +1,16 @@
+```mermaid
+graph TD
+    %% Main System Components
+    Frontend["Frontend (Web/Mobile)"] -->|Sends Requests| Backend["Backend (API Server)"]
+    
+    %% Backend Connections
+    Backend -->|Stores Data| Database["Database"]
+    Backend -->|Processes Payments| PaymentService["Payment Service"]
+    Backend -->|Sends Notifications| NotificationService["Notification Service"]
+
+    %% Styling
+    style Frontend fill:#4d79ff,stroke:#0033cc,stroke-width:2px
+    style Backend fill:#ff9933,stroke:#b36b00,stroke-width:2px
+    style Database fill:#66cc66,stroke:#006600,stroke-width:2px
+    style PaymentService fill:#cc66ff,stroke:#6600cc,stroke-width:2px
+    style NotificationService fill:#66cccc,stroke:#008080,stroke-width:2px
