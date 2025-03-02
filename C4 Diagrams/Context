@@ -19,6 +19,6 @@ graph TD;
     style Client fill:#4d79ff,stroke:#0033cc,stroke-width:2px
     style Barber fill:#66cc66,stroke:#006600,stroke-width:2px
     style Admin fill:#999999,stroke:#4d4d4d,stroke-width:2px
-    style BookingDB fill:#ff9933,stroke:#b36b00,stroke-width:2px
+    style BookingDB fill:#ff9933,stroke:#b36b00,stroke-width:2px 
     style PaymentService fill:#cc66ff,stroke:#6600cc,stroke-width:2px
     style NotificationService fill:#66cccc,stroke:#008080,stroke-width:2px
