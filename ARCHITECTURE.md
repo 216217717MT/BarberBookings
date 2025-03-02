@@ -1,7 +1,5 @@
 Architecture Diagrams - Online Booking System for Barbershop
  
-Introduction::
- 
 Project Title: Online Booking System for Barbershop
  
 Domain: Barbershop Management System  
