@@ -1,0 +1,44 @@
+graph TD;
+    %% External Users
+    Client["Client - Books Appointments"] -->|Interacts with| UI
+    Barber["Barber - Manages Schedules"] -->|Interacts with| UI
+    Admin["Admin - Oversees Operations"] -->|Interacts with| UI
+
+    %% Main System Components
+    subgraph "Online Booking System"
+        UI["User Interface (Web & Mobile)"]
+        API["API Gateway (Backend)"]
+        
+        subgraph "Backend Services"
+            BookingService["Booking Service"]
+            UserService["User Management Service"]
+            PaymentService["Payment Processing Service"]
+            NotificationService["Notification Service"]
+        end
+        
+        Database["Database"]
+    end
+
+    %% Connections
+    UI -->|Requests| API
+    API -->|Handles Bookings| BookingService
+    API -->|Manages Users| UserService
+    API -->|Processes Payments| PaymentService
+    API -->|Sends Notifications| NotificationService
+
+    BookingService -->|Stores Appointments| Database
+    UserService -->|Manages Users| Database
+    PaymentService -->|Verifies Transactions| Database
+    NotificationService -->|Sends Messages| Database
+
+    %% Styling
+    style UI fill:#ff4d4d,stroke:#b30000,stroke-width:2px
+    style API fill:#ff9933,stroke:#b36b00,stroke-width:2px
+    style BookingService fill:#66cc66,stroke:#006600,stroke-width:2px
+    style UserService fill:#66cc66,stroke:#006600,stroke-width:2px
+    style PaymentService fill:#cc66ff,stroke:#6600cc,stroke-width:2px
+    style NotificationService fill:#66cccc,stroke:#008080,stroke-width:2px
+    style Database fill:#ffcc00,stroke:#b38f00,stroke-width:2px
+    style Client fill:#4d79ff,stroke:#0033cc,stroke-width:2px
+    style Barber fill:#66cc66,stroke:#006600,stroke-width:2px
+    style Admin fill:#999999,stroke:#4d4d4d,stroke-width:2px
