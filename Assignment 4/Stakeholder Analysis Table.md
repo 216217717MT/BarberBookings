@@ -1,0 +1,12 @@
+
+   # Stakeholder Analysis Table
+
+| **Stakeholder**        | **Role**                                               | **Key Concerns**                                              | **Pain Points**                                                | **Success Metrics**                                         |
+|------------------------|--------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|
+| **Client**             | Makes bookings via the system.                     | User-friendly interface.                                      | Lack of appointment reminders, complicated booking process.  | 95% satisfaction rate; reduced no-shows and cancellations. |
+| **Barber**             | Monitors their schedules and provides barbering services. | Effectively coordinate availability and schedules.           | Duplicate bookings, last-minute cancellations.               | 30% improvement in scheduling.                             |
+| **Admin**             | Oversees revenue, staff, and operations.               | Tracks business growth, revenue, and service analysis.       | Insufficient knowledge of peak hours, difficult payroll management. | 20% improvement in revenue tracking accuracy. |
+| **Receptionist**       | Handles manual and walk-in bookings and customer inquiries. | Smooth transition between online and offline bookings.       | Duplicate appointments and manual tracking errors.           | 40% reduction in booking errors, wait times, and cancellations. |
+| **System Administrator** | Maintains security and system updates.               | Ensures secure data storage and system performance.          | Technical issues and outages are difficult to manage.        | 99.9% uptime, quick resolution of issues, zero data breaches. |
+| **Payment Processor**  | Gateway for third-party payments.                      | Provides secure transactions.                                | Payment errors, refund delays.                               | Up to 98% successful transaction rate. |
+| **IT Support**        | Provides system technical support.                     | Handles data backups, system stability, and troubleshooting. | Security concerns and system interruptions.                  | 95% quicker problem-solving with less system downtime. |
