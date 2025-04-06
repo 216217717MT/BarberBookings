@@ -10,3 +10,4 @@ https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanati
 https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/State%20Transition%20Diagrams (State Transition Diagrams)    
 https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation.md (Explanation of State Transition Diagrams)
 
+https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/View%20Point%20integration.md (my view point)
