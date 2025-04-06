@@ -6,6 +6,7 @@ Clients will not have to get in touch during working hours to book an appointmen
 https://github.com/216217717MT/BarberBookings/blob/main/SPECIFICATION.md SPECIFICATION.md
 https://github.com/216217717MT/BarberBookings/blob/main/SPECIFICATION.md SPECIFICATION.md
 https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/Activity%20Diagrams (Activity Diagrams)
-https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation%20of%20Activity%20Workflow.md (Explanation of Activity Workflow Modeling)
-https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/State%20Transition%20Diagrams (State Transition Diagrams) https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation.md (Explanation of State Transition Diagrams)
+https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation%20of%20Activity%20Workflow.md (Explanation of Activity Workflow Modeling) 
+https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/State%20Transition%20Diagrams (State Transition Diagrams) 
+https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation.md (Explanation of State Transition Diagrams)
 
