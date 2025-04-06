@@ -5,3 +5,4 @@ Clients will not have to get in touch during working hours to book an appointmen
 
 https://github.com/216217717MT/BarberBookings/blob/main/SPECIFICATION.md SPECIFICATION.md
 https://github.com/216217717MT/BarberBookings/blob/main/SPECIFICATION.md SPECIFICATION.md
+https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/Activity%20Diagrams
