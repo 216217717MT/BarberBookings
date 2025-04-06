@@ -8,4 +8,5 @@ https://github.com/216217717MT/BarberBookings/blob/main/SPECIFICATION.md SPECIFI
 https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/Activity%20Diagrams
 https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation%20of%20Activity%20Workflow.md (Activity Workflow Modeling)
 https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/State%20Transition%20Diagrams
+https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation.md (State Transition Diagrams)
 
