@@ -11,3 +11,6 @@ https://github.com/216217717MT/BarberBookings/tree/main/Assessment%208/State%20T
 https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/Explanation.md (Explanation of State Transition Diagrams)
 
 https://github.com/216217717MT/BarberBookings/blob/main/Assessment%208/View%20Point%20integration.md (my view point)
+
+https://github.com/216217717MT/BarberBookings/blob/main/Assignment%2010/language%20choice.md 
+(explaining of my language choice and key design decisions)
