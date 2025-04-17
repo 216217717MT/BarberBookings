@@ -1,9 +1,11 @@
 # A /src directory with all class implementations
 class User:
-    def __init__(self, user_id, name, email):
+    def __init__(self, user_id, name, email, address, phone):
         self.user_id = user_id
         self.name = name
         self.email = email
+        self.address = address
+        self.phone = phone
 
     def book_appointment(self, appointment):
         pass
@@ -80,3 +82,19 @@ class Admin:
 
     def manage_barbers(self):
         pass
+
+        File: src/notification.py
+
+
+class Notification:
+    def __init__(self, message: str, recipient: str, notification_type: str):
+        self.message = message
+        self.recipient = recipient  # It is an email, phone number
+        self.notification_type = notification_type  # "Reminder", "Confirmation"
+        self.timestamp = datetime.now()
+
+    def send(self):
+        print(f"[{self.timestamp}] Sending {self.notification_type} to {self.recipient}: {self.message}")
+
+    def schedule_reminder(self, delay_minutes: int):
+        print(f"Scheduled a reminder for {self.recipient} in {delay_minutes} minutes.")
