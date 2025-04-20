@@ -1,0 +1,13 @@
+import unittest
+import UserFactory     # from creational_patterns.simple_factory 
+
+class TestSimpleFactoryPattern(unittest.TestCase):
+    def test_vehicle_factory(self):
+        client = UserFactory.create_user('Client')
+        self.assertEqual(client.book(), "book an appointment")
+
+        barber = VehiclUserFactoryeFactory.create_user('Barber')
+        self.assertEqual(barber.accept(), "view and accept an appointment")
+
+        admin = UserFactory.create_user('Admin')
+        self.assertEqual(admin.manages(), "mananges both user and barber")
