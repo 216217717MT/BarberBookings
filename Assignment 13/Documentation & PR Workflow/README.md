@@ -1,4 +1,4 @@
-
+## How to run tests locally. How the CI/CD pipeline works
 ## CI/CD Pipeline
 
 This project uses GitHub Actions to automate testing and artifact deployment.
