@@ -1,53 +1,61 @@
+ 
 
-#  Roadmap
+#  Roadmap: 
+## Online Booking System for Barbershop
 
-This roadmap outlines key milestones and planned features for the Online Booking System for Barbershop project. Contributions are welcome!
-
----
-
-##  Completed Features
-
-- [x] User registration and login
-- [x] Barber profile management
-- [x] Booking and scheduling system
-- [x] Admin dashboard
-- [x] CI/CD with GitHub Actions
-- [x] REST API with FastAPI
-- [x] Unit & Integration Testing
+This document outlines the planned features and improvements for future releases. Contributions to any of these are welcome!
 
 ---
 
-##  Upcoming Features
+##  MVP Completed (Milestone 1–13)
+- [x] Domain Model
+- [x] Factory & Repository Layers
+- [x] Service Layer + REST API
+- [x] CI/CD Pipeline with GitHub Actions
+- [x] Basic Booking & Barber Scheduling
+- [x] Authentication & Authorization (Basic)
 
-###  Core Functionality
+---
 
-- [ ] Payment Integration (e.g., Stripe or PayPal)
-- [ ] Notification System (email or SMS reminders)
-- [ ] Cancel/Reschedule bookings
-- [ ] Customer booking history view
+##  Planned Features (Contributions Welcome)
 
-###  Enhancements
-
-- [ ] Admin Analytics Dashboard (e.g., most booked barbers, peak times)
-- [ ] Ratings & Reviews for barbers
-- [ ] Search & Filter for available time slots
-- [ ] Multiple service selection (e.g., cut + shave combo)
+###  Functional Enhancements
+- [ ] Implement role-based access (Admin, Barber, Client)
+- [ ] Add customer review and rating system
+- [ ] Enable calendar sync (Google/Outlook)
+- [ ] Add multi-language support
 
 ###  Technical Improvements
+- [ ] Integrate Redis for session and cache handling
+- [ ] Add Celery for background jobs (email reminders, cleanup tasks)
+- [ ] Improve test coverage with integration & edge-case tests
+- [ ] Implement logging and monitoring (e.g., Sentry or Prometheus)
 
-- [ ] Add Redis caching for faster performance
-- [ ] Implement role-based access control (RBAC)
-- [ ] Dockerize the application for deployment
-- [ ] Use PostgreSQL for production-grade database support
+###  Payments & Invoicing
+- [ ] Integrate PayPal and Stripe support
+- [ ] Generate PDF invoices and booking summaries
+
+###  UI/UX Improvements
+- [ ] Mobile-friendly dashboard layout
+- [ ] Add dark/light theme switch
+- [ ] Implement user profile picture upload
+
+###  Analytics & Reporting
+- [ ] Admin dashboard with charts (e.g., daily bookings, top barbers)
+- [ ] Export bookings data (CSV, Excel)
 
 ---
 
-##  Contributions Welcome!
+## How to Contribute
 
 If you’d like to help with one of the roadmap items above, feel free to:
 
-1. Fork the repository
-2. Check for existing open issues or create a new one
-3. Submit a pull request following our CONTRIBUTING.md guidelines
+Fork the repository
 
-Let’s build something awesome together! 
+Check for existing open issues or create a new one
+
+Submit a pull request following our CONTRIBUTING.md guidelines
+
+Let’s build something awesome together!
+
+
