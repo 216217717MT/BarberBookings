@@ -1,0 +1,16 @@
+#
+### **Reflection on Peer Review and Open-Source Collaboration**
+
+Participating in the peer review and open-source collaboration process for my barbershop booking system was an eye-opening and enriching experience. It not only allowed me to validate my own work through external feedback but also gave me a clearer perspective on how collaborative software development works in real-world open-source communities.
+
+After sharing my GitHub repository link with classmates in our WhatsApp group, I received a total of **25 stars and 20 forks**, which indicated strong engagement and interest in my project. Some peers took the time to explore my code and even submitted pull requests or comments on certain files. While a few did not contribute deeply, others provided thoughtful suggestions to improve the clarity and organization of my project documentation.
+
+One of the most impactful feedback points was regarding my **`README.md`**. A few classmates noted that it was slightly overwhelming at first glance. Based on that, I reorganized the document to include a **"Getting Started"** section and moved the technical configuration steps into bullet points for clarity. I also added a **"Features for Contribution"** markdown table, which clearly outlined which parts of the system are open to enhancement. This significantly improved the readability and accessibility of the project, especially for first-time visitors.
+
+A notable challenge I encountered was in **onboarding contributors effectively**. Despite adding a **`CONTRIBUTING.md`** file and tagging beginner-friendly issues (`good-first-issue`), not all contributors followed the recommended process. Some created pull requests without linking them to any issue or failed to follow the project’s structure and naming conventions. This highlighted the importance of writing very clear and concise guidelines for collaboration, not just from a technical standpoint, but also including a visual or step-by-step example for newcomers.
+
+Another challenge was managing subjective feedback. Some classmates appreciated my use of clean architecture and modular design, while others found my code “too broken up” and preferred a more monolithic approach. This taught me that in open-source work, not all feedback will be in agreement  and as a maintainer, it's essential to find a balance between maintaining design integrity and remaining open to adaptation.
+
+Through this process, I learned valuable lessons about open-source collaboration. First, documentation is as important as the code itself. A well-documented project invites collaboration, while a poorly explained one discourages it. Second, setting clear expectations through labeled issues, contribution guidelines, and a roadmap helps streamline the onboarding process. Lastly, peer feedback even though its critical but it is a powerful tool for growth. It improves not just the project, but also the developer's ability to communicate, adapt, and work in a team-oriented environment.
+
+In conclusion, **Assignment 14** gave me a real-world feel of what it’s like to manage an open-source project. It sharpened my skills in communication, project planning, and community engagement, and it prepared me for future collaborative work in both academic and professional environments.
